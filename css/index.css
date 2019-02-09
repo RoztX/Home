@@ -1,6 +1,8 @@
 /* font-family: 'Open Sans', sans-serif;
 font-family: 'PT Sans', sans-serif; */
-
+body{
+    background-color: #000;
+}
 body, html {
     font-family: 'PT Sans', sans-serif;
     background-color: #fff;
@@ -11,4 +13,6 @@ body, html {
 }
 .logo{
     border-color: red
+    width: 700px;
+    height: 240px;
 }
